@@ -1,7 +1,29 @@
 ---
+import { getImage } from 'astro:assets';
 import Layout from '../layouts/Layout.astro';
+import HeroBackgroundImage from '../images/background.jpg';
+
+const heroBackgroundImage = await getImage({
+	src: HeroBackgroundImage,
+	quality: 95,
+});
 ---
 
-<Layout title="Welcome to Astro.">
-	<h1 class="p-4 pt-8">Hello, world!</h1>
+<Layout title="Antonina Gliwinska">
+	<div
+		class="h-screen w-screen"
+		style={{
+			background: `url(${heroBackgroundImage.src}) no-repeat center`,
+			backgroundColor: 'rgba(0, 0, 0, 0.3)',
+			backgroundBlendMode: 'darken',
+			backgroundSize: 'cover',
+		}}
+	>
+		<div class="container mx-auto">
+			<h1 class="p-4 pt-8">Hello, world!</h1>
+		</div>
+	</div>
+	<div class="container mx-auto">
+		<h1 class="p-4 pt-8">Hello, world!</h1>
+	</div>
 </Layout>
