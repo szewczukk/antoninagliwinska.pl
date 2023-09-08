@@ -1,0 +1,20 @@
+---
+type Anchor = { link: string; text: string };
+
+const anchors: Array<Anchor> = [
+	{ text: 'Hero', link: '/#hero' },
+	{ text: 'About', link: '/#about' },
+];
+---
+
+<nav class="sticky top-0 h-8 scroll-p-20">
+	<ul class="flex gap-4 bg-slate-100 p-4">
+		{
+			anchors.map((anchor) => (
+				<li>
+					<a href={anchor.link}>{anchor.text}</a>
+				</li>
+			))
+		}
+	</ul>
+</nav>

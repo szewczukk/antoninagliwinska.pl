@@ -11,19 +11,30 @@ const heroBackgroundImage = await getImage({
 
 <Layout title="Antonina Gliwinska">
 	<div
+		id="hero"
 		class="h-screen w-screen"
 		style={{
 			background: `url(${heroBackgroundImage.src}) no-repeat center`,
-			backgroundColor: 'rgba(0, 0, 0, 0.3)',
+			backgroundColor: 'rgba(0, 0, 0, 0.35)',
 			backgroundBlendMode: 'darken',
 			backgroundSize: 'cover',
 		}}
 	>
-		<div class="container mx-auto">
-			<h1 class="p-4 pt-8">Hello, world!</h1>
+		<div
+			class="container mx-auto flex h-full flex-col items-center justify-center"
+		>
+			<h1 class="mb-8 text-5xl font-semibold text-slate-50">
+				Antonina Gliwinska
+			</h1>
+			<button
+				class="flex gap-2 rounded bg-slate-200 p-4 px-16 text-blue-500 transition-all hover:bg-slate-400 hover:text-blue-600"
+			>
+				<span>Więcej o mnie</span>
+				<span>&rarr;</span>
+			</button>
 		</div>
 	</div>
-	<div class="container mx-auto">
+	<div class="container mx-auto" id="about">
 		<h1 class="p-4 pt-8">Hello, world!</h1>
 	</div>
 </Layout>
