@@ -1,11 +1,26 @@
 ---
-import { getImage } from 'astro:assets';
+import { Image, getImage } from 'astro:assets';
 import Layout from '../layouts/Layout.astro';
 import HeroBackgroundImage from '../images/background.jpg';
+import AvatarPhoto from '../images/avatar.jpg';
+import TappingPhoto from '../images/tapping.jpg';
+import NeckPhoto from '../images/szyja.jpg';
+import FacePhoto from '../images/twarz.jpg';
+import FirstShouldersPhoto from '../images/barki.jpg';
+import SecondShouldersPhoto from '../images/ramiona.jpg';
+
+type GridImage = { src: ImageMetadata; alt: string };
+const gridImages: Array<GridImage> = [
+	{ src: HeroBackgroundImage, alt: 'b' },
+	{ src: TappingPhoto, alt: 'a' },
+	{ src: NeckPhoto, alt: 'b' },
+	{ src: FacePhoto, alt: 'a' },
+	{ src: FirstShouldersPhoto, alt: 'b' },
+	{ src: SecondShouldersPhoto, alt: 'b' },
+];
 
 const heroBackgroundImage = await getImage({
 	src: HeroBackgroundImage,
-	quality: 95,
 });
 ---
 
@@ -20,18 +35,47 @@ const heroBackgroundImage = await getImage({
 		<div
 			class="container mx-auto flex h-full flex-col items-center justify-center"
 		>
-			<h1 class="mb-8 text-5xl font-semibold text-slate-50">
+			<h1 class="mb-8 text-center text-5xl font-semibold text-slate-50">
 				Antonina Gliwinska
 			</h1>
-			<button
-				class="flex gap-2 rounded bg-slate-200 p-4 px-16 text-blue-500 transition-all hover:bg-slate-400 hover:text-blue-600"
-			>
-				<span>Więcej o mnie</span>
-				<span>&rarr;</span>
-			</button>
+			<a href="#about">
+				<button
+					class="flex gap-2 rounded bg-slate-200 p-4 px-16 text-blue-500 transition-all hover:bg-slate-400 hover:text-blue-600"
+				>
+					<span>Więcej o mnie</span>
+					<span>&rarr;</span>
+				</button>
+			</a>
 		</div>
 	</div>
-	<div class="container mx-auto" id="about">
-		<h1 class="p-4 pt-8">Hello, world!</h1>
+	<div class="mx-auto h-screen max-w-[1024px] scroll-mt-6 p-8" id="about">
+		<div class="flex flex-col gap-4 md:h-64 md:flex-row md:gap-8">
+			<Image src={AvatarPhoto} alt="To ja" class="h-full w-auto" />
+			<div class="flex flex-col justify-between gap-2 md:gap-0">
+				<h1 class="text-2xl font-semibold">Jestem Antonina</h1>
+				<p class="text-justify">
+					Jestem doświadczoną masażystką ze stażem pracy wynoszącym 14
+					lat. Od 2008 roku prowadzę własny gabinet, który stał się
+					moim życiowym dziełem. Moje doświadczenie zawodowe obejmuje
+					pracę w najbardziej renomowanych hotelach spa, takich jak
+					Malinowy Zdrój Hotel Medical Spa w Solcu Zdroju czy Bristol
+					Art & Medical Spa w Busko-Zdroju. Dla mnie praca to nie
+					tylko obowiązek, to prawdziwa pasja, która sprawia mi
+					ogromną satysfakcję, ponieważ mogę pomagać innym poprzez
+					masaż i dbanie o ich dobrostan.
+				</p>
+			</div>
+		</div>
+		<div class="mt-8 flex flex-wrap gap-8">
+			{
+				gridImages.map((image) => (
+					<Image
+						src={image.src}
+						alt={image.alt}
+						class="h-48 w-auto"
+					/>
+				))
+			}
+		</div>
 	</div>
 </Layout>
