@@ -1,0 +1,32 @@
+---
+import { getImage } from 'astro:assets';
+import HeroBackgroundImage from '../images/background.jpg';
+
+const heroBackgroundImage = await getImage({
+	src: HeroBackgroundImage,
+});
+---
+
+<div
+	id="hero"
+	class="h-screen w-screen bg-slate-600 bg-cover bg-center bg-no-repeat bg-blend-overlay"
+	style={{
+		backgroundImage: `url(${heroBackgroundImage.src})`,
+	}}
+>
+	<div
+		class="container mx-auto flex h-full flex-col items-center justify-center"
+	>
+		<h1 class="mb-8 text-center text-5xl font-semibold text-slate-50">
+			Antonina Gliwinska
+		</h1>
+		<a href="#about">
+			<button
+				class="flex gap-2 rounded bg-slate-200 p-4 px-16 text-blue-500 transition-all hover:bg-slate-400 hover:text-blue-600"
+			>
+				<span>Więcej o mnie</span>
+				<span>&rarr;</span>
+			</button>
+		</a>
+	</div>
+</div>
