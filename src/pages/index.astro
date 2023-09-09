@@ -12,12 +12,9 @@ const heroBackgroundImage = await getImage({
 <Layout title="Antonina Gliwinska">
 	<div
 		id="hero"
-		class="h-screen w-screen"
+		class="h-screen w-screen bg-slate-600 bg-cover bg-center bg-no-repeat bg-blend-overlay"
 		style={{
-			background: `url(${heroBackgroundImage.src}) no-repeat center`,
-			backgroundColor: 'rgba(0, 0, 0, 0.35)',
-			backgroundBlendMode: 'darken',
-			backgroundSize: 'cover',
+			backgroundImage: `url(${heroBackgroundImage.src})`,
 		}}
 	>
 		<div
