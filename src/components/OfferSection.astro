@@ -1,0 +1,29 @@
+---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+
+const offers = await getCollection('offers');
+---
+
+<div class="mx-auto h-screen scroll-mt-6 bg-blue-50" id="offer">
+	<h1>Od 1.09.2023</h1>
+	<p>Pakiet 4 x 45min - 150zł (pakiet ważny miesiąc)</p>
+	<p>1 x 60min - 200zł</p>
+	<p>Access Bars 90min - 250zł</p>
+	<ul class="flex snap-x snap-proximity gap-8 overflow-x-scroll">
+		{
+			offers.map((offer) => (
+				<a href={offer.data.title} class="w-full bg-slate-50">
+					<li class="w-72 snap-center">
+						<Image
+							src={offer.data.icon}
+							alt={offer.data.title}
+							class="w-full max-w-none"
+						/>
+						<p class="p-8 text-center">{offer.data.title}</p>
+					</li>
+				</a>
+			))
+		}
+	</ul>
+</div>
