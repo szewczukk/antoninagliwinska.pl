@@ -1,6 +1,7 @@
 ---
 title: Taping
 icon: ../../images/tapping.jpg
+slug: tapping
 ---
 
 ![Zdjęcie masażu](../../images/tapping.jpg)

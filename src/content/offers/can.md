@@ -1,6 +1,7 @@
 ---
 title: Bańką wschodnią
 icon: ../../images/can.jpg
+slug: east-can
 ---
 
 ![Zdjęcie masażu](../../images/can.jpg)

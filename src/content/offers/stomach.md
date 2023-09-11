@@ -1,6 +1,7 @@
 ---
 title: Brzucha
 icon: ../../images/stomach.jpg
+slug: stomach
 ---
 
 ![Zdjęcie masażu](../../images/stomach.jpg)

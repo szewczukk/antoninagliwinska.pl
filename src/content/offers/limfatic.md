@@ -1,6 +1,7 @@
 ---
 title: Limfatyczny
 icon: ../../images/limfatic.jpg
+slug: limfatic
 ---
 
 ![Zdjęcie masażu](../../images/limfatic.jpg)

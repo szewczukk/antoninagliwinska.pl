@@ -1,6 +1,7 @@
 ---
 title: Twarzy
 icon: ../../images/face.jpg
+slug: face
 ---
 
 ![Zdjęcie masażu](../../images/face.jpg)

@@ -1,6 +1,7 @@
 ---
 title: Sportowy
 icon: ../../images/sport.jpg
+slug: sport
 ---
 
 ![Zdjęcie masażu](../../images/sport.jpg)

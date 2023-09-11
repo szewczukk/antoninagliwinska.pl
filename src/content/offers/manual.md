@@ -1,6 +1,7 @@
 ---
 title: Manualny
 icon: ../../images/manual.jpg
+slug: manual
 ---
 
 ![Zdjęcie masażu](../../images/manual.jpg)

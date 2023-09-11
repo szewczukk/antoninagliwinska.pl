@@ -1,6 +1,7 @@
 ---
 title: Access Bars
 icon: ../../images/access.jpeg
+slug: access-bars
 ---
 
 ![Zdjęcie masażu](../../images/access.jpeg)

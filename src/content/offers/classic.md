@@ -1,6 +1,7 @@
 ---
 title: Klasyczny
 icon: ../../images/classic.jpg
+slug: classic
 ---
 
 ![Zdjęcie masażu](../../images/classic.jpg)

@@ -1,6 +1,7 @@
 ---
 title: Miodem
 icon: ../../images/honey.jpg
+slug: honey
 ---
 
 ![Zdjęcie masażu](../../images/honey.jpg)
