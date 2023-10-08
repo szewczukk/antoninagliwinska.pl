@@ -6,11 +6,11 @@ slug: stomach
 
 ![Zdjęcie masażu](../../images/stomach.jpg)
 
-## Starosłowiański masaż brzucha
+# Starosłowiański masaż brzucha
 
 Jest metodą terapii narządów jamy brzusznej wywodzącą się z tradycji Medycyny Słowiańskiej. Zlikwidowanie zastojów żylno-limfatycznych w narządach i przestrzeniach wokół nich, wyeliminowanie przemieszczeń narządów wewnętrznych, prowadzi do normalizacji czynności fizjologicznych i regeneracji całego organizmu, bez konieczności stosowania silnych preparatów leczniczych. Dla chorego, jest to jeden ze sposobów na rozwiązanie problemów zdrowotnych, a dla zdrowego - utrzymanie zdrowia i zapobieganie chorobom.W czasie choroby narządów, pojawia się reakcja na dotknięcie albo naciśnięcie w poszczególnych okolicach ciała, oraz odczuć bólowych lub zwiększonej wrażliwości tych stref. Lokalizacja podrażnienia, jak również zdolność rozróżnienia ich odmiennych cech, zależy od specyficznych związków między narządem zmysłów i mózgiem. Znaczenie mózgu w powstawaniu odczuć, wyraźnie jest widoczne w zjawisku "odzwierciedlenia bólu."
 
-### Wskazania
+## Wskazania
 
 -   Zapalenia pęcherzyka żółciowego
 -   Zapalenie trzustki
@@ -25,7 +25,7 @@ Jest metodą terapii narządów jamy brzusznej wywodzącą się z tradycji Medyc
 -   Choroby tarczycy
 -   Wydalenie kamienie pęcherzyka żółciowego
 
-### Przeciwwskazania
+## Przeciwwskazania
 
 -   Perforacja wrzodu żółądka
 -   Stan narkotyczny i nietrzeźwości

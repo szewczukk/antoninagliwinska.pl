@@ -6,11 +6,11 @@ slug: east-can
 
 ![Zdjęcie masażu](../../images/can.jpg)
 
-## Masaż bańką wschodnią
+# Masaż bańką wschodnią
 
 Bańka jest dobra nie tylko na brzuch i cellulit. Stosuje się ją również w celu likwidacji bólów kręgosłupa czy dolegliwości mięśniowych. Bańka ma wiele wspólnego z bańkami akupunkturowymi (leczniczymi), które stosuje się w medycynie ludowej w przypadku leczenia wielu dolegliwości. Bańki zmniejszają napięcie mięśniowe, które powoduje np. bóle kręgosłupa, a także uciskanie splotów nerwowych i stopniowe powstawanie dolegliwości całego ciała.
 
-### Wskazania:
+## Wskazania:
 
 -   Bóle kręgosłupa
 -   Dolegliwości mięśniowe
@@ -19,7 +19,7 @@ Bańka jest dobra nie tylko na brzuch i cellulit. Stosuje się ją również w c
 -   Dolegliwości płucne
 -   Problemy z ukrwieniem
 
-### Przeciwwskazania:
+## Przeciwwskazania:
 
 -   Gorączka nieznanego pochodzenia
 -   Choroby nowotworowe i zakaźne

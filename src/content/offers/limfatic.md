@@ -6,11 +6,11 @@ slug: limfatic
 
 ![Zdjęcie masażu](../../images/limfatic.jpg)
 
-## Masaż limfatyczny
+# Masaż limfatyczny
 
 Masaż, w którym poprzez zastosowanie odpowiednich technik umożliwia się usprawnienie krążenia limfy i płynów tkankowych.Tempo masażu jest bardzo wolne (ok. 10-15 ruchów na minutę), a wykorzystywane techniki wykonywane są płynnie i delikatnie. Jest leczeniem wspomagającym przy mastektomii, obrzęku limfatycznym.
 
-### Wskazania
+## Wskazania
 
 -   Obrzęki zastoinowe kończyn i tułowia pierwotne i wtórne
 -   Obrzęki kończyn górnych i dolnych w przebiegu leczenia chorób nowotworowych
@@ -20,7 +20,7 @@ Masaż, w którym poprzez zastosowanie odpowiednich technik umożliwia się uspr
 -   Uczucie ciężkości nóg z widoczną opuchlizną (np. u osób pracujących w pozycji stojącej)
 -   Wspomaganie odchudzania
 
-### Przeciwwskazania
+## Przeciwwskazania
 
 -   Choroby skóry
 -   Proces zapalny lub zakażenie toczące się w organizmie

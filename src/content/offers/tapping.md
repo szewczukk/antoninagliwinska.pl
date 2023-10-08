@@ -6,11 +6,11 @@ slug: tapping
 
 ![Zdjęcie masażu](../../images/tapping.jpg)
 
-## Taping
+# Taping
 
 Taping zmniejsza stany zapalne, działa przeciwbólowo, przeciwobrzękowo, przeciwwysiękowo oraz poprawia krążenie krwi i limfy. Kinesiology taping to technika poprawiająca stabilność stawów i mięśni bez negatywnego wpływu na krążenie i zakres ruchu, ma bardzo szerokie spektrum aplikacji. Przy tym taping pozwala na równoległą rehabilitację i utrzymywanie terapeutycznych korzyści 24 godziny na dobę.
 
-### Wskazania
+# Wskazania
 
 -   Bóle kręgosłupa różnego pochodzenia
 -   Bóle kolan
@@ -31,7 +31,7 @@ Taping zmniejsza stany zapalne, działa przeciwbólowo, przeciwobrzękowo, przec
 -   Wskazania do drenażu limfatycznego(w przypadku okreśolnych schorzeń, po urazach lub w okresie ciąży)
 -   Poprawa propriocepcji (lepsza stabilizacja i koordynacja)
 
-### Przeciwwskazania
+# Przeciwwskazania
 
 -   Stany zapalneg i choroby infekcyjne skóry (bakteryjne, wirusowe, grzybicze)
 -   Otwarte rany, podrażnienia skóry

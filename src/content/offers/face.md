@@ -6,11 +6,11 @@ slug: face
 
 ![Zdjęcie masażu](../../images/face.jpg)
 
-## Masaż twarzy
+# Masaż twarzy
 
 Wycisza emocje, łagodzi napięcia i stresy. Obniża poziom lęku, pomaga w problemach nerwowych i depresji. Przyśpiesza regenerację zmęczonego organizmu, dodaje energii i chęci do życia. Pomaga przy kłopotach ze snem. Efektem serii zabiegów może być głęboki relaks, uczucie dystansu i wewnętrznego spokoju, większa łatwość w rozwiązywaniu problemów.
 
-### Wskazania
+## Wskazania
 
 -   Stany po zapaleniu nerwów twarzy
 -   Neuralgie twarzy
@@ -19,6 +19,6 @@ Wycisza emocje, łagodzi napięcia i stresy. Obniża poziom lęku, pomaga w prob
 -   Zespół kręgów szyjnych
 -   Stan po szczękościsku
 
-### Przeciwwskazania
+## Przeciwwskazania
 
 -   Stan zapalny skóry głowy i twarzy
