@@ -16,5 +16,33 @@ const { Content } = await entry.render();
 
 <Layout title={`${entry.data.title} | Antonina Gliwinska`}>
 	<h1>{entry.data.title}</h1>
-	<Content />
+	<div class="markdown-content container mx-auto">
+		<Content />
+	</div>
 </Layout>
+
+<style is:global>
+	.markdown-content h1 {
+		font-weight: bold;
+	}
+
+	.markdown-content ul {
+		list-style: circle;
+		list-style-position: inside;
+	}
+
+	.markdown-content h1 {
+		font-size: 1.25rem;
+	}
+
+	.markdown-content h1,
+	.markdown-content h2 {
+		margin-top: 1rem;
+	}
+
+	.markdown-content img {
+		height: 20rem;
+		width: auto;
+		margin: 0 auto;
+	}
+</style>
