@@ -12,22 +12,22 @@ Masaż klasyczny pobudza krążenie, rozluźnia, łagodzi bóle. Stosuje się ta
 
 ## Wskazania
 
--   Bóle pleców
--   Bóle karku
--   Bóle mięśni
--   Napięcie bólowe głowy
--   Niewydolność krążenia
--   Obrzęki
--   Przykurcze
--   Choroby reumatyczne
+- Bóle pleców
+- Bóle karku
+- Bóle mięśni
+- Napięcie bólowe głowy
+- Niewydolność krążenia
+- Obrzęki
+- Przykurcze
+- Choroby reumatyczne
 
 ## Przeciwwskazania
 
--   Ciąża
--   Gorączka
--   Żylaki
--   Ropne zmiany skórne
--   Krwiaki
+- Ciąża
+- Gorączka
+- Żylaki
+- Ropne zmiany skórne
+- Krwiaki
 
 ## Uwaga
 

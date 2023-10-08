@@ -12,9 +12,9 @@ Masaż sportowy różni się od klasycznego wkładem siły i energii, oraz przew
 
 ## Przeciwwskazania
 
--   Wysoka temperatura ciała (powyżej 48°C)
--   Stany zapalne(ostre i podostre) stawów i ścięgien
--   Wczesny okres po złamaniach, skeceniach, zwichnięciach (według wskazań ortopedy)
--   Pourazowe wylewy w stawach i mięśniach(do 3 dni po urazie)
--   Zapalenia żył
--   Zmiany dermatologiczne
+- Wysoka temperatura ciała (powyżej 48°C)
+- Stany zapalne(ostre i podostre) stawów i ścięgien
+- Wczesny okres po złamaniach, skeceniach, zwichnięciach (według wskazań ortopedy)
+- Pourazowe wylewy w stawach i mięśniach(do 3 dni po urazie)
+- Zapalenia żył
+- Zmiany dermatologiczne

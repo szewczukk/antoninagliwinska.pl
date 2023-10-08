@@ -12,34 +12,34 @@ Jest metodą terapii narządów jamy brzusznej wywodzącą się z tradycji Medyc
 
 ## Wskazania
 
--   Zapalenia pęcherzyka żółciowego
--   Zapalenie trzustki
--   Stany zastoinowe wątroby
--   Zapalenie oskrzeli
--   Choroba wrzodowa żołądka i dwunastnicy
--   Zapalenie jelit
--   Przewlekłe zaparcia
--   Stany zastoinowe nerek
--   Stany zastoinowe w miednicy małej
--   Zaburzenia płuc i serca
--   Choroby tarczycy
--   Wydalenie kamienie pęcherzyka żółciowego
+- Zapalenia pęcherzyka żółciowego
+- Zapalenie trzustki
+- Stany zastoinowe wątroby
+- Zapalenie oskrzeli
+- Choroba wrzodowa żołądka i dwunastnicy
+- Zapalenie jelit
+- Przewlekłe zaparcia
+- Stany zastoinowe nerek
+- Stany zastoinowe w miednicy małej
+- Zaburzenia płuc i serca
+- Choroby tarczycy
+- Wydalenie kamienie pęcherzyka żółciowego
 
 ## Przeciwwskazania
 
--   Perforacja wrzodu żółądka
--   Stan narkotyczny i nietrzeźwości
--   Nowotwory
--   Stan ostrego brzucha
--   Obecność krwawienia wewnętrznego
--   Choroby przenoszone drogą płciową
--   Mielopatia
--   Otwarta gruźlica
--   Postępujące chorby mózgu i jego obrzęk
--   Zakrzepica naczyń
--   Choroby psychiczne
--   Kolagenozy
--   Ostre choroby zakaźne z wysoką gorączką
--   Choroby układu sercowo-naczyniowego w ostrej fazie
+- Perforacja wrzodu żółądka
+- Stan narkotyczny i nietrzeźwości
+- Nowotwory
+- Stan ostrego brzucha
+- Obecność krwawienia wewnętrznego
+- Choroby przenoszone drogą płciową
+- Mielopatia
+- Otwarta gruźlica
+- Postępujące chorby mózgu i jego obrzęk
+- Zakrzepica naczyń
+- Choroby psychiczne
+- Kolagenozy
+- Ostre choroby zakaźne z wysoką gorączką
+- Choroby układu sercowo-naczyniowego w ostrej fazie
 
 Źródło: A.T Ogułow

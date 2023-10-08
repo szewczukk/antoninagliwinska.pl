@@ -12,13 +12,13 @@ Wycisza emocje, łagodzi napięcia i stresy. Obniża poziom lęku, pomaga w prob
 
 ## Wskazania
 
--   Stany po zapaleniu nerwów twarzy
--   Neuralgie twarzy
--   Bóle głowy pochodzenia naczynioruchowego
--   Stany po urazach głowy
--   Zespół kręgów szyjnych
--   Stan po szczękościsku
+- Stany po zapaleniu nerwów twarzy
+- Neuralgie twarzy
+- Bóle głowy pochodzenia naczynioruchowego
+- Stany po urazach głowy
+- Zespół kręgów szyjnych
+- Stan po szczękościsku
 
 ## Przeciwwskazania
 
--   Stan zapalny skóry głowy i twarzy
+- Stan zapalny skóry głowy i twarzy

@@ -12,23 +12,23 @@ Bańka jest dobra nie tylko na brzuch i cellulit. Stosuje się ją również w c
 
 ## Wskazania:
 
--   Bóle kręgosłupa
--   Dolegliwości mięśniowe
--   Problemy ze stawami
--   Bóle różnego pochodzenia (w tym migrenowe i nerwobóle)
--   Dolegliwości płucne
--   Problemy z ukrwieniem
+- Bóle kręgosłupa
+- Dolegliwości mięśniowe
+- Problemy ze stawami
+- Bóle różnego pochodzenia (w tym migrenowe i nerwobóle)
+- Dolegliwości płucne
+- Problemy z ukrwieniem
 
 ## Przeciwwskazania:
 
--   Gorączka nieznanego pochodzenia
--   Choroby nowotworowe i zakaźne
--   Padaczka, zespół odstawienia alkoholu czy narkotyków
--   SR(Stwardnienie rozsiane) w okresie nowego rzutu choroby
--   Przerwanie ciągłości i stany zapalne skóry(włączając w to siniaki i obrzęki niewiadomego pochodzenia)
--   Hemofilia
--   Cera naczyniowa
--   Niewydolność krążenia(np. zapalenie żył i żylaki), a także nadciśnienie tętnicze
--   Wady i choroby serca
--   Miesiączka
--   Ciąża
+- Gorączka nieznanego pochodzenia
+- Choroby nowotworowe i zakaźne
+- Padaczka, zespół odstawienia alkoholu czy narkotyków
+- SR(Stwardnienie rozsiane) w okresie nowego rzutu choroby
+- Przerwanie ciągłości i stany zapalne skóry(włączając w to siniaki i obrzęki niewiadomego pochodzenia)
+- Hemofilia
+- Cera naczyniowa
+- Niewydolność krążenia(np. zapalenie żył i żylaki), a także nadciśnienie tętnicze
+- Wady i choroby serca
+- Miesiączka
+- Ciąża

@@ -12,20 +12,20 @@ Masaż leczniczy wykorzystujący elementy technik terapii manualnej to najlepszy
 
 ## Wskazania
 
--   Zaburzenia czynności ruchu w stawach, mięśniach, powięzi ścięgien
--   Postawne
--   Ruchowe
--   Oddechowe
--   Ostre i przewlekłe zespoły bólowe kręgosłupa i kończyn
--   Bóle i zawroty głowy z udziałem czynnika okręgowego
+- Zaburzenia czynności ruchu w stawach, mięśniach, powięzi ścięgien
+- Postawne
+- Ruchowe
+- Oddechowe
+- Ostre i przewlekłe zespoły bólowe kręgosłupa i kończyn
+- Bóle i zawroty głowy z udziałem czynnika okręgowego
 
 ## Przeciwwskazania
 
--   Złamania
--   Ostre stany zapalneg
--   Zmiany nowotworowe układu kostnego
--   Ciążka
--   Osteoporoza
--   Niewydolność krążenia mózgowego
--   Poważne zaburzenia internistyczne
--   Stan po operacji kręgosłupa
+- Złamania
+- Ostre stany zapalneg
+- Zmiany nowotworowe układu kostnego
+- Ciążka
+- Osteoporoza
+- Niewydolność krążenia mózgowego
+- Poważne zaburzenia internistyczne
+- Stan po operacji kręgosłupa

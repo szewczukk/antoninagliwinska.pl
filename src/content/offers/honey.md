@@ -16,12 +16,12 @@ Masaż ciepłym miodem wspomaga wydzielanie gruczołów potowych, ułatwiając u
 
 ## Przeciwwskazania
 
--   Nietolerancja miodu(uczulenie na produkty pszczele)
--   Choroba nowotworowa
--   Zaawansowane żylaki i kruchość naczyń
--   Choroba miażdżycowa
--   Gorączka i stan podgorączkowy
--   Ciąża
+- Nietolerancja miodu(uczulenie na produkty pszczele)
+- Choroba nowotworowa
+- Zaawansowane żylaki i kruchość naczyń
+- Choroba miażdżycowa
+- Gorączka i stan podgorączkowy
+- Ciąża
 
 ## Uwaga
 

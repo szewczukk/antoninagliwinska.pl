@@ -30,25 +30,21 @@ const gridImages: Array<GridImage> = [
 		<div class="flex flex-col justify-between gap-2 md:gap-0">
 			<h1 class="text-2xl font-semibold">Jestem Antonina</h1>
 			<p class="text-justify text-base md:text-sm lg:text-base">
-				Jestem doświadczoną masażystką ze stażem pracy wynoszącym 14
-				lat. Od 2008 roku prowadzę własny gabinet, który stał się moim
-				życiowym dziełem. Moje doświadczenie zawodowe obejmuje pracę w
-				najbardziej renomowanych hotelach spa, takich jak Malinowy Zdrój
-				Hotel Medical Spa w Solcu Zdroju czy Bristol Art & Medical Spa w
-				Busko-Zdroju. Dla mnie praca to nie tylko obowiązek, to
-				prawdziwa pasja, która sprawia mi ogromną satysfakcję, ponieważ
-				mogę pomagać innym poprzez masaż i dbanie o ich dobrostan.
+				Jestem doświadczoną masażystką ze stażem pracy wynoszącym 14 lat. Od
+				2008 roku prowadzę własny gabinet, który stał się moim życiowym dziełem.
+				Moje doświadczenie zawodowe obejmuje pracę w najbardziej renomowanych
+				hotelach spa, takich jak Malinowy Zdrój Hotel Medical Spa w Solcu Zdroju
+				czy Bristol Art & Medical Spa w Busko-Zdroju. Dla mnie praca to nie
+				tylko obowiązek, to prawdziwa pasja, która sprawia mi ogromną
+				satysfakcję, ponieważ mogę pomagać innym poprzez masaż i dbanie o ich
+				dobrostan.
 			</p>
 		</div>
 	</div>
 	<div class="mt-8 flex flex-wrap justify-center gap-8 md:justify-between">
 		{
 			gridImages.map((image) => (
-				<Image
-					src={image.src}
-					alt={image.alt}
-					class="h-full w-auto sm:h-48"
-				/>
+				<Image src={image.src} alt={image.alt} class="h-full w-auto sm:h-48" />
 			))
 		}
 	</div>
