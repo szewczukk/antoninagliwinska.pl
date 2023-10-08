@@ -13,7 +13,7 @@ const offers = await getCollection('offers');
 	<ul class="flex snap-x snap-proximity gap-8 overflow-x-scroll">
 		{
 			offers.map((offer) => (
-				<a href={offer.data.title} class="w-full bg-slate-50">
+				<a href={`/offers/${offer.slug}`} class="w-full bg-slate-50">
 					<li class="w-72 snap-center">
 						<Image
 							src={offer.data.icon}
