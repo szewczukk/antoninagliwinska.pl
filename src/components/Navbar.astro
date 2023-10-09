@@ -1,18 +1,34 @@
 ---
+import { Image } from 'astro:assets';
+import LogoImage from '../images/logo.png';
+
 type Anchor = { link: string; text: string };
 
 const anchors: Array<Anchor> = [
-	{ text: 'Hero', link: '/#hero' },
-	{ text: 'About', link: '/#about' },
+	{ text: 'Strona Główna', link: '/#hero' },
+	{ text: 'O mnie', link: '/#about' },
+	{ text: 'Oferta', link: '/#offer' },
+	{ text: 'Kontakt', link: '/#contact' },
 ];
 ---
 
-<nav class="sticky top-0 h-8">
-	<ul class="flex gap-4 bg-slate-100 p-4">
+<nav class="sticky top-0 flex items-center justify-between bg-slate-200 p-4">
+	<a href="/#hero">
+		<Image
+			src={LogoImage}
+			alt="logo"
+			width={40}
+			height={53}
+			class="object-cover object-center"
+		/>
+	</a>
+	<ul class="flex gap-4">
 		{
 			anchors.map((anchor) => (
 				<li>
-					<a href={anchor.link}>{anchor.text}</a>
+					<a href={anchor.link} class="text-gray-950">
+						{anchor.text}
+					</a>
 				</li>
 			))
 		}
