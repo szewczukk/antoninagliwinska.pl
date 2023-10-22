@@ -12,16 +12,26 @@ Masaż miodem (zwany klepanym lub rosyjskim) to znana od dawna terapia stosowana
 
 ## Działanie
 
-Masaż ciepłym miodem wspomaga wydzielanie gruczołów potowych, ułatwiając usuwanie przez skórę szkodliwych substancji. Wyciąga nagromadzone w niej toksyny, otwiera pory, intensywnie dotlenia. Jest o wiele skuteczniejszy niż peeling i sauna. To oryginalna metoda terapii manualnej. Połączenie masażu leczniczego z działaniem miodu, przyczynia się do udrożnienia systemu limfatycznego oraz stymuluje wydzielanie gruczołów potowych. Masaż poprawia sprawność układu krążenia, działa przeciwzapalnie i wspomaga naturalną odporność organizmu (hartuje). Korzystnie oddziałuje przy depresji, spadku nastroju (chandrze) i kuracji antynikotynowej: – zmniejsza nadpobudliwość nerwową, – regeneruje po przemęczeniu i wyczerpaniu, – stabilizuje sen. masaż miodowy działa regenerująco i odżywczo na skórę oraz skutecznie zapobiega powstawaniu: – cellulitu, – rozstępów skóry, – blizn.
+Masaż ciepłym miodem wspomaga wydzielanie gruczołów potowych, ułatwiając usuwanie przez skórę szkodliwych substancji. Wyciąga nagromadzone w niej toksyny, otwiera pory, intensywnie dotlenia. Jest o wiele skuteczniejszy niż peeling i sauna. To oryginalna metoda terapii manualnej. Połączenie masażu leczniczego z działaniem miodu, przyczynia się do udrożnienia systemu limfatycznego oraz stymuluje wydzielanie gruczołów potowych. Masaż poprawia sprawność układu krążenia, działa przeciwzapalnie i wspomaga naturalną odporność organizmu (hartuje).
+
+Korzystnie oddziałuje przy:
+
+- depresji;
+- spadku nastroju (chandrze);
+- kuracji antynikotynowej;
+- zmniejsza nadpobudliwość nerwową;
+- regeneruje po przemęczeniu i wyczerpaniu;
+- stabilizuje sen;
+- działa regenerująco i odżywczo na skórę oraz skutecznie zapobiega powstawaniu cellulitu, rozstępów skóry i blizn.
 
 ## Przeciwwskazania
 
-- Nietolerancja miodu(uczulenie na produkty pszczele)
-- Choroba nowotworowa
-- Zaawansowane żylaki i kruchość naczyń
-- Choroba miażdżycowa
-- Gorączka i stan podgorączkowy
-- Ciąża
+- nietolerancja miodu (uczulenie na produkty pszczele);
+- choroba nowotworowa;
+- zaawansowane żylaki i kruchość naczyń;
+- choroba miażdżycowa;
+- gorączka i stan podgorączkowy;
+- ciąża.
 
 ## Uwaga
 

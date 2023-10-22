@@ -23,12 +23,13 @@ const { Content } = await entry.render();
 <style is:global>
 	.markdown-content h1 {
 		font-size: 1.25rem;
-		font-weight: bold;
 	}
 
 	.markdown-content h1,
 	.markdown-content h2 {
 		margin-top: 1rem;
+
+		font-weight: bold;
 	}
 
 	.markdown-content ul {
@@ -42,5 +43,9 @@ const { Content } = await entry.render();
 		height: auto;
 		width: auto;
 		margin: 0 auto;
+	}
+
+	.markdown-content p {
+		margin-top: 0.5rem;
 	}
 </style>
