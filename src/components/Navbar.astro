@@ -1,6 +1,7 @@
 ---
 import { Image } from 'astro:assets';
 import LogoImage from '../images/logo.png';
+import HamburgerIcon from '../assets/menu.svg';
 
 type Anchor = { link: string; text: string };
 
@@ -12,7 +13,7 @@ const anchors: Array<Anchor> = [
 ];
 ---
 
-<nav class="sticky top-0 flex items-center justify-between bg-slate-200 p-4">
+<nav class="sticky top-0 flex items-center justify-between bg-slate-200 pl-4">
 	<a href="/#hero">
 		<Image
 			src={LogoImage}
@@ -22,14 +23,13 @@ const anchors: Array<Anchor> = [
 			class="object-cover object-center"
 		/>
 	</a>
-	<ul class="flex gap-4">
+	<Image src={HamburgerIcon} alt="" class="md:hidden" />
+	<ul class="hidden gap-4 md:flex">
 		{
 			anchors.map((anchor) => (
-				<li>
-					<a href={anchor.link} class="text-gray-950">
-						{anchor.text}
-					</a>
-				</li>
+				<a href={anchor.link} class="p-4 text-gray-900 hover:bg-slate-400">
+					<li>{anchor.text}</li>
+				</a>
 			))
 		}
 	</ul>
