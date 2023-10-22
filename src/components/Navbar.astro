@@ -13,18 +13,45 @@ const anchors: Array<Anchor> = [
 ];
 ---
 
-<nav class="sticky top-0 flex items-center justify-between bg-slate-200 pl-4">
+<nav
+	class="sticky top-0 flex items-center justify-between bg-slate-200 px-4 md:pr-0"
+>
 	<a href="/#hero">
 		<Image src={LogoImage} alt="logo" class="h-16 w-auto" />
 	</a>
-	<Image src={HamburgerIcon} alt="" class="md:hidden" />
-	<ul class="hidden gap-4 md:flex">
+	<button id="hamburger">
+		<Image src={HamburgerIcon} alt="" class="cursor-pointer md:hidden" />
+	</button>
+	<ul
+		class="absolute left-0 top-full hidden w-full flex-col gap-4 bg-slate-500 md:static md:flex md:w-auto md:flex-row md:bg-inherit md:text-inherit"
+		id="menu"
+	>
 		{
 			anchors.map((anchor) => (
-				<a href={anchor.link} class="p-4 text-gray-900 hover:bg-slate-400">
+				<a
+					href={anchor.link}
+					class="link p-4 text-gray-50 hover:bg-slate-400 md:text-gray-900"
+				>
 					<li>{anchor.text}</li>
 				</a>
 			))
 		}
 	</ul>
 </nav>
+
+<script>
+	const menu = document.querySelector('#menu');
+	const hamburgerButton = document.querySelector('#hamburger');
+	const links = document.querySelectorAll('.link');
+
+	function toggleNavbar() {
+		menu?.classList.toggle('flex');
+		menu?.classList.toggle('hidden');
+	}
+
+	hamburgerButton?.addEventListener('click', toggleNavbar);
+
+	for (const link of links) {
+		link.addEventListener('click', toggleNavbar);
+	}
+</script>
