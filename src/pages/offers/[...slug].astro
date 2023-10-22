@@ -22,16 +22,8 @@ const { Content } = await entry.render();
 
 <style is:global>
 	.markdown-content h1 {
-		font-weight: bold;
-	}
-
-	.markdown-content ul {
-		list-style: circle;
-		list-style-position: inside;
-	}
-
-	.markdown-content h1 {
 		font-size: 1.25rem;
+		font-weight: bold;
 	}
 
 	.markdown-content h1,
@@ -39,8 +31,15 @@ const { Content } = await entry.render();
 		margin-top: 1rem;
 	}
 
+	.markdown-content ul {
+		list-style: circle;
+		list-style-position: inside;
+	}
+
 	.markdown-content img {
-		height: 20rem;
+		max-width: 100%;
+		max-height: 20rem;
+		height: auto;
 		width: auto;
 		margin: 0 auto;
 	}
